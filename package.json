@@ -1,0 +1,7 @@
+{
+  "name": "john-theme",
+  "version": "0.0.0",
+  "description": "john-theme hexo theme",
+  "private": true,
+  "dependencies": {}
+}
